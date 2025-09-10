@@ -6,11 +6,19 @@ yarn-debug.log*
 yarn-error.log*
 pnpm-debug.log*
 lerna-debug.log*
+vite-dev-log.txt
 
+# Dependencies
 node_modules
+bun.lock
+
+# Build outputs
 dist
 dist-ssr
 *.local
+
+# E2B specific files
+e2b.startup.sh
 
 # Editor directories and files
 .vscode/*
