@@ -36,7 +36,7 @@ The project uses Vite with optimized build settings:
  License:
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🙏 Acknowledgments
+ Acknowledgments
 
 - Built with [Vite](https://vitejs.dev/)
 - Styled with [Tailwind CSS](https://tailwindcss.com/)
