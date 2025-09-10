@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🎯 AI Career Mentor
 
 An intelligent career roadmap generator that creates personalized learning paths based on your interests, skills, and experience level.
@@ -129,3 +130,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Ready to discover your dream career?** 🚀
 
 [Deploy Now](./DEPLOYMENT.md) | [View Live Demo](#) | [Report Bug](#)
+=======
+# ai-career-path
+AI-powered career path website is all about about mapping your skills and giving you the best roadmap with the resources.This is built using Vite+Node.js+Tailwind
+>>>>>>> 887c72096322fd5b7664756d9485775884b6270e
